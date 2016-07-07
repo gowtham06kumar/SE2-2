@@ -1,0 +1,23 @@
+LastName,FirstName,Grad School,Degree,Title,DaysToTeach,MaxLoadFall,MaxLoadSpring,MaxLoadSummer
+Bell,Ken,GSECS,M.S.,Associate Professor,M,6,0,0
+Bigelow,Jeff,GSECS,PhD,Professor,T,6,6,6
+Bryan,Jennifer,GSECS,PhD,Associate Professor,MT,3,3,0
+Cassel,David,GSECS,PhD,Professor,T,3,3,0
+Cochenour,Grant,GSECS,PhD,Associate Professor,MTR,3,3,0
+DeBoard,Ralph,GSECS,M.S,Associate Professor,MTR,3,3,0
+Doyle,Colin,GSECS,PhD,Associate Professor,MTR,8,8,8
+Grounds,Nic,GSECS,M.S.,Associate Professor,MTR,6,6,6
+Harbert ,Andy,GSECS,M.S.,Assistant Professor,MTR,0,0,6
+Johnson,Craig,GSECS,PhD,Associate Professor,MTR,3,3,3
+Maher,Steve,GSECS,M.S.,Associate Professor,MTR,6,6,6
+Martin,Jay,GSECS,PhD,Associate Professor,R,3,3,3
+Newberry,Byron,GSECS,PhD,Professor,MTR,3,3,3
+Nix,Robert,GSECS,PhD,Assistant Professor,MTWR,12,12,3
+North,David,GSECS,M.S.,Associate Professor,MTR,12,12,6
+Patton,Peter,GSECS,PhD,Associate Professor,MTR,6,6,3
+Plumlee,Kevin,GSECS,PhD,Associate Professor,R,0,3,0
+Rodman ,Geof,GSECS,PhD,Associate Professor,MTR,6,6,6
+Smith,Pat,GSECS,M.S.,Associate Professor,MTR,0,0,6
+Waldo,David,GSECS,PhD,Professor,MTR,6,6,6
+Watson,Joe,GSECS,M.S.,Professor,M,3,3,0
+Wood,Debra,GSECS,M.S.,Associate Professor,R,3,3,0
